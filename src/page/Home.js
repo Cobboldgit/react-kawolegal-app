@@ -39,9 +39,9 @@ function Home() {
             solvers and support for startups.
           </p>
           <div className="buttonsetup">
-            <a href="./register.html">
+            <Link to="./register">
               <button>Register Now!</button>
-            </a>
+            </Link>
           </div>
         </div>
       </div>
