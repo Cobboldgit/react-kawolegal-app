@@ -94,14 +94,14 @@ ul li a:hover {
 }
 
 .logo .fa {
-  /* padding-bottom: 10px; */
-  position: absolute;
-  padding-left: 50px;
+  display: inline-block;
+  padding: 0 20px;
   font-size: 25px;
   text-decoration: none;
+  transition: .5s ease;
 }
 
-.logo .fa-twitter {
+/* .logo .fa-twitter {
   left: 4rem;
 }
 
@@ -111,9 +111,8 @@ ul li a:hover {
 
 .logo .fa-instagram {
   left: 12rem;
-}
+} */
 
 .logo .fa:hover {
   opacity: 50%;
-  font-size: 40px;
 }

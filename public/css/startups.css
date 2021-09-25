@@ -100,14 +100,14 @@ nav ul li a:hover {
 }
 
 
-.logo .fa {
+/* .logo .fa {
     position: absolute;
     padding-left: 50px;
     font-size: 25px;
     text-decoration: none;
-}
+} */
 
-.logo .fa-twitter {
+/* .logo .fa-twitter {
     left: 4rem;
 }
 
@@ -117,9 +117,5 @@ nav ul li a:hover {
 
 .logo .fa-instagram {
     left: 12rem;
-}
+} */
 
-.logo .fa:hover {
-    opacity: 50%;
-    font-size: 40px;
-}

@@ -44,7 +44,7 @@ nav ul li a:hover {
   padding-bottom: 30px;
   background-color: rgb(73, 0, 0);
 }
-
+/* 
 .logo .fa {
   position: absolute;
   padding-left: 50px;
@@ -62,9 +62,6 @@ nav ul li a:hover {
 
 .logo .fa-instagram {
   left: 12rem;
-}
+} */
 
-.logo .fa:hover {
-  opacity: 50%;
-  font-size: 40px;
-}
+
